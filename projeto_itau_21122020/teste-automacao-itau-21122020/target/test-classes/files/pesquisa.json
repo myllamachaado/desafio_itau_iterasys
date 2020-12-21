@@ -1,0 +1,54 @@
+{
+  "itens": [
+    {
+      "item": {
+        "nome": "rato"
+      }
+    },
+    {
+      "item": {
+        "nome": "osso"
+      }
+    },
+    {
+      "item": {
+        "nome": "pelucia"
+      }
+    },
+    {
+      "item": {
+        "nome": "medicamento"
+      }
+    },
+    {
+      "item": {
+        "nome": "cobertor"
+      }
+    },
+    {
+      "item": {
+        "nome": "caixa"
+      }
+    },
+    {
+      "item": {
+        "nome": "arranhador"
+      }
+    },
+    {
+      "item": {
+        "nome": "areia"
+      }
+    },
+    {
+      "item": {
+        "nome": "roupa"
+      }
+    },
+    {
+      "item": {
+        "nome": "coleira"
+      }
+    }
+  ]
+}
